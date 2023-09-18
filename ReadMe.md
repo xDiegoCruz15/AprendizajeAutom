@@ -15,3 +15,6 @@ Bienvenido al repositorio del Curso de Aprendizaje Automático. Aquí, explorare
 <br>   
 
 ## Indice
+
+1. [Tarea1](https://github.com/xDiegoCruz15/AprendizajeAutom/blob/master/Tarea1.ipynb) Selección Base de datos y Regresión lineal
+   
