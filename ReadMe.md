@@ -18,6 +18,6 @@ Bienvenido al repositorio del Curso de Aprendizaje Automático. Aquí, explorare
 
 1. [Tarea1](https://github.com/xDiegoCruz15/AprendizajeAutom/blob/master/Tarea1.ipynb) Selección Base de datos y Regresión lineal
 2. [Tarea2](https://github.com/xDiegoCruz15/AprendizajeAutom/blob/master/Tarea2.ipynb) Limpieza y segmentación de datos
-3. [Tarea3](https://github.com/xDiegoCruz15/AprendizajeAutom/blob/0ceda3bbe87b471781c2c2830908a13bf0fb2aeb/Tarea3.ipynb) Estadística descriptiva y prueba de hipótesis
+3. [Tarea3](https://github.com/xDiegoCruz15/AprendizajeAutom/blob/master/Tarea3.ipynb) Estadística descriptiva y prueba de hipótesis
    
    
