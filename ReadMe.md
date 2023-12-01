@@ -22,5 +22,5 @@ Bienvenido al repositorio del Curso de Aprendizaje Automático. Aquí, explorare
 4. [Tarea4](https://github.com/xDiegoCruz15/AprendizajeAutom/blob/master/tarea4.ipynb) Selección de variables
 5. [Tarea5](https://github.com/xDiegoCruz15/AprendizajeAutom/tree/master/Tarea5) Aprendizaje no supervisado
 6. [Tarea6](https://github.com/xDiegoCruz15/AprendizajeAutom/tree/master/Tarea6) Aprendizaje supervisado - Regresión
-   
+7. [Proyecto_Final](https://github.com/xDiegoCruz15/AprendizajeAutom/tree/master/Proyecto) Proyecto Final
    
